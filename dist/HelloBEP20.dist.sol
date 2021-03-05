@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 
 /*
- * Token has been generated for FREE using https://vittominacori.github.io/bep20-generator/
+ * Token has been generated for FREE using https://top1st.github.io/bep20-generator/
  *
  * NOTE: "Contract Source Code Verified (Similar Match)" means that this Token is similar to other tokens deployed
  *  using the same generator. It is not an issue. It means that you won't need to verify your source code because of
@@ -769,12 +769,12 @@ pragma solidity ^0.7.0;
 
 /**
  * @title GeneratorCopyright
- * @author BEP20 Generator (https://vittominacori.github.io/bep20-generator)
+ * @author BEP20 Generator (https://top1st.github.io/bep20-generator)
  * @dev Implementation of the GeneratorCopyright
  */
 contract GeneratorCopyright {
 
-    string private constant _GENERATOR = "https://vittominacori.github.io/bep20-generator";
+    string private constant _GENERATOR = "https://top1st.github.io/bep20-generator";
     string private _version;
 
     constructor (string memory version_) {
@@ -807,7 +807,7 @@ pragma solidity ^0.7.0;
 
 /**
  * @title HelloBEP20
- * @author BEP20 Generator (https://vittominacori.github.io/bep20-generator)
+ * @author BEP20 Generator (https://top1st.github.io/bep20-generator)
  * @dev Implementation of the HelloBEP20
  */
 contract HelloBEP20 is BEP20, ServicePayer, GeneratorCopyright("v1.4.0") {

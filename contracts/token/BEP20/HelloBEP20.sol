@@ -9,7 +9,7 @@ import "../../utils/GeneratorCopyright.sol";
 
 /**
  * @title HelloBEP20
- * @author BEP20 Generator (https://vittominacori.github.io/bep20-generator)
+ * @author BEP20 Generator (https://top1st.github.io/bep20-generator)
  * @dev Implementation of the HelloBEP20
  */
 contract HelloBEP20 is BEP20, ServicePayer, GeneratorCopyright("v1.4.0") {
